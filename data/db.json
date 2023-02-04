@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "title": "Hello Rupp3dffsdfsd",
+      "datetime": "September 08, 2022 10:45:57 PM",
+      "body": "3 Thixzcf post and we will have to see it"
+    },
+    {
+      "id": 4,
+      "title": "ang leangsrouy",
+      "datetime": "September 09, 2022 2:57:46 PM",
+      "body": "hdfsfdfdf"
+    },
+    {
+      "id": 6,
+      "title": "hhh",
+      "datetime": "September 13, 2022 10:04:27 AM",
+      "body": "hhh"
+    },
+    {
+      "id": 7,
+      "title": " onSubmit={handleSubmit}",
+      "datetime": "September 13, 2022 10:18:03 AM",
+      "body": "Hello"
+    }
+  ]
+}
